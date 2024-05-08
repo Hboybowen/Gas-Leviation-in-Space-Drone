@@ -5,3 +5,5 @@ science & engineering from code and it works
 For remote use on Microsoft Windows using transceivers overclocked in real time
 ready for intergalactic travel warfare/hunting from home outside of earth's orbital zone
 
+Cost may start at $50000+ each for example
+
